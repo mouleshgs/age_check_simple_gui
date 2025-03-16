@@ -13,7 +13,7 @@ This is a simple age-checking application built for the GUI using Java Swing and
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mouleshleo/age_check_simple_gui.git
+    git clone https://github.com/mouleshgs/age_check_simple_gui.git
     ```
 
 2. Compile and run the application:
